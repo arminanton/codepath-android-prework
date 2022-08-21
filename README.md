@@ -3,7 +3,7 @@
 **Hello World** is an android app that contains a simple image chosen by the developer and includes a short introduction text with the dev's name and hobbie, as well as a "Say Hello!" button, that once clicked will display a Toast saying "Hello you too!".
 
 Submitted by: **Armin Anton** (Guilherme Armin Da Silva Anton)
-William is the English equivalent of Guilherme (Portuguese), and sometimes I go by that name.
+> William is the English equivalent of Guilherme (Portuguese), and sometimes I go by that name.
 
 Time spent: **0.1** hours spent in total
 
