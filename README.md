@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 * [x] User can **read a short intro** about the dev and its hobbie
 * [x] User can **greed and be greeded** by using the "Say Hello!" button
 
-The following **optional** features are implemented:
+The following **required** features are implemented:
 
 * [x] Located a button view using findViewById method and its id
 * [x] Set a onclick listener to button
